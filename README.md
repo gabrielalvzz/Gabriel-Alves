@@ -1,4 +1,4 @@
-# # Hi 👋, I'm Gabriel Alves
+# Hi 👋, I'm Gabriel Alves
 
 🚀 **Estudante de ADS | HTML, CSS & JavaScript**  
 🇧🇷 Brazil
@@ -13,11 +13,11 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
+  <a href="https://github.com/gabrielalvzz">
     <img src="https://img.shields.io/badge/GitHub-GabrielAlves-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/gabriel.alvzz_?igsh=MWk5MjhpM2o0OXF3eA==">
+    <img src="https://img.shields.io/badge/Instagram-@gabriel.alvzz_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -25,14 +25,8 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ## 🧠 What I do
 
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
+-   🏗️ Sites funcionais em HTML, CSS e JS
+-   ⚡ Land Pages
 
 ---
 
@@ -85,4 +79,3 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
-
