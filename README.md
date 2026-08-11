@@ -4,6 +4,7 @@
 🇧🇷 Brazil
 
 I build **functional websites in HTML, CSS, and JS**
+
 I'm in my last year studying ADS, I already use my knowledge in real projects and I want to improve it more and more.
 
 I also have quite a bit of knowledge in **Sales**, knowledge that I carry along with my career in IT.
