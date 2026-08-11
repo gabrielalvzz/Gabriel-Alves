@@ -27,7 +27,7 @@ I also have quite a bit of knowledge in **Sales**, Such knowledge that I carry a
 ## 🧠 What I do
 
 -   🏗️ Sites funcionais em HTML, CSS e JS
--   ⚡ Land Pages
+-   ⚡ Páginas WEB
 
 ---
 
