@@ -3,10 +3,10 @@
 🚀 **Estudante de ADS | HTML, CSS & JavaScript**  
 🇧🇷 Brazil
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+I build **functional websites in HTML, CSS, and JS**
+I'm in my last year studying ADS, I already use my knowledge in real projects and I want to improve it more and more.
 
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+I also have quite a bit of knowledge in **Sales**, knowledge that I carry along with my career in IT.
 
 ---
 
@@ -26,7 +26,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 🧠 What I do
 
 -   🏗️ Sites funcionais em HTML, CSS e JS
--   ⚡ Paginas WEB 
+-   ⚡ Land Pages
 
 ---
 
