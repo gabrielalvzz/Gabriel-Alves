@@ -26,7 +26,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 🧠 What I do
 
 -   🏗️ Sites funcionais em HTML, CSS e JS
--   ⚡ Land Pages
+-   ⚡ Paginas WEB 
 
 ---
 
